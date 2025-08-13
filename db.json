@@ -1,0 +1,107 @@
+{
+  "products": [
+    {
+      "id": "5961",
+      "name": "Apple M4 Pro",
+      "count": 1,
+      "weight": "5",
+      "imageUrl": "https://www.notebookcheck-ru.com/fileadmin/Notebooks/Apple/MacBook_Pro_14_2024_M4/IMG_7747.JPG",
+      "size": {
+        "width": 12,
+        "height": 12
+      },
+      "comments": []
+    },
+    {
+      "id": "0c89",
+      "name": "iMac 24\" Retina 4.5K Apple",
+      "count": 1,
+      "weight": "2",
+      "imageUrl": "https://yabloki.ua/media/cache/sylius_shop_product_original/6e/2b/imac-24-retina-4-5k-apple-m4-10cpu-10gpu-24gb-512gb-ssd-pink-2024-md2u4_ed60f7de-3df0-4bdd-a288-c51a830b46f7-4.png.webp",
+      "size": {
+        "width": 5,
+        "height": 4
+      },
+      "comments": [
+        {
+          "id": "b70f50a5-75e3-41b3-a99c-c48254e61ad7",
+          "productId": "0c89",
+          "description": "I love Imac",
+          "date": "8/13/2025, 2:27:38 PM"
+        }
+      ]
+    },
+    {
+      "name": "APPLE iPhone 16 Pro Max",
+      "count": 7,
+      "weight": "4",
+      "imageUrl": "https://files.foxtrot.com.ua/PhotoNew/img_0_60_10324_0_1_IXXijT.webp",
+      "size": {
+        "width": 10,
+        "height": 11
+      },
+      "comments": [],
+      "id": "6fe8"
+    },
+    {
+      "id": "e997",
+      "name": "Apple AirPods Max Purple",
+      "count": 4,
+      "weight": "4",
+      "imageUrl": "https://content1.rozetka.com.ua/goods/images/big/468886685.jpg",
+      "size": {
+        "width": 3,
+        "height": 4
+      },
+      "comments": []
+    },
+    {
+      "id": "cf91",
+      "name": "APPLE iPad Pro 13\"",
+      "count": 5,
+      "weight": "4",
+      "imageUrl": "https://files.foxtrot.com.ua/PhotoNew/img_0_1112_2664_0_1_L2YClv.webp",
+      "size": {
+        "width": 3,
+        "height": 4
+      },
+      "comments": []
+    },
+    {
+      "id": "5f68",
+      "name": "Asus Zenbook A14",
+      "count": 15,
+      "weight": "16",
+      "imageUrl": "https://i.moyo.ua/img/gallery/6282/34/2708713_middle.jpg",
+      "size": {
+        "width": 1,
+        "height": 1
+      },
+      "comments": []
+    },
+    {
+      "id": "4c9d",
+      "name": "Asus ROG Strix SCAR G18",
+      "count": 21,
+      "weight": "14",
+      "imageUrl": "https://content.rozetka.com.ua/goods/images/big/424206485.jpg",
+      "size": {
+        "width": 2,
+        "height": 2
+      },
+      "comments": []
+    },
+    {
+      "id": "9bed",
+      "name": "HP OmniBook 5 Flip x360",
+      "count": 30,
+      "weight": "12",
+      "imageUrl": "https://i.allo.ua/media/catalog/product/cache/3/image/710x600/602f0fa2c1f0d1ba5e241f914e856ff9/b/v/bv5s9ea.webp",
+      "size": {
+        "width": 3,
+        "height": 3
+      },
+      "comments": []
+    }
+  ]
+}
